@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DJ Derex</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+        .social-media {
+            list-style: none;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+        .social-media li {
+            margin: 0 10px;
+        }
+        .social-media a {
+            text-decoration: none;
+            color: #1a1a1a;
+            font-size: 1.2em;
+        }
+        .social-media a:hover {
+            color: #0073e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>DJ Derex</h1>
+        <p>Welcome to the official webpage of DJ Derex. Connect with me on social media:</p>
+        <ul class="social-media">
+            <li><a href="https://www.facebook.com/dwrexofficial/" target="_blank">Facebook</a></li>
+            <li><a href="https://www.instagram.com/djderexofficial/" target="_blank">Instagram</a></li>
+        </ul>
+    </div>
+</body>
+</html>
